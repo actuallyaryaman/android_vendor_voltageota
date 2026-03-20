@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "logic1802",
+        "oem": "Oneplus",
+        "device": "Oneplus 12R",
+        "filename": "voltage-5.7-aston-20260320-1159-UNOFFICIAL.zip",
+        "download": "https://aston.dtho.xyz/aston/voltage-5.7-aston-20260320-1159-UNOFFICIAL.zip",
+        "timestamp": 1774009322,
+        "md5": "5eec47103ad5904929a7e84fc9cba000",
+        "size": 2610702174,
+        "version": "5.7"
+    }
+  ]
+}
