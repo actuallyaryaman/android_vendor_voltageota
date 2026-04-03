@@ -1,6 +1,7 @@
 #### 20-03-26
 
 - Enable OTA updates.
+- Replace system emoji with apple-emoji v26
 
 #### 15-03-26
 - Sync to latest source
