@@ -1,7 +1,8 @@
-#### 20-03-26
-
+#### 19-04-26
+- Voltage version upgrade to 5.8
 - Enable OTA updates.
 - Replace system emoji with apple-emoji v26
+- Fix brightness?
 
 #### 15-03-26
 - Sync to latest source
