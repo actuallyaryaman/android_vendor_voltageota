@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "logic1802",
+        "oem": "Oneplus",
+        "device": "Oneplus Ace 3",
+        "filename": "voltage-5.8-astonc-20260419-1645-UNOFFICIAL.zip",
+        "download": "https://aston.dtho.xyz/astonc/voltage-5.8-astonc-20260419-1645-UNOFFICIAL.zip",
+        "timestamp": 1776619819,
+        "md5": "f6ea2cd60d1b6585e3a808b13a712751",
+        "size": 2617731828,
+        "version": "5.8"
+    }
+  ]
+}
