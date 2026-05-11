@@ -4,12 +4,12 @@
         "maintainer": "logic1802",
         "oem": "Oneplus",
         "device": "Oneplus 12R",
-        "filename": "voltage-5.8-aston-20260419-1427-UNOFFICIAL.zip",
-        "download": "https://aston.dtho.xyz/aston/voltage-5.8-aston-20260419-1427-UNOFFICIAL.zip",
-        "timestamp": 1776618829,
-        "md5": "05f101727d8b037be0c0a2f489853722",
-        "size": 2621182454,
-        "version": "5.8"
+        "filename": "voltage-5.9-aston-20260511-1449-UNOFFICIAL.zip",
+        "download": "https://aston.dtho.xyz/aston/voltage-5.9-aston-20260511-1449-UNOFFICIAL.zip",
+        "timestamp": 1778518072,
+        "md5": "7df7b10c4323f0c72ac3650fa50fb2d9",
+        "size": 2617355256,
+        "version": "5.9"
     }
   ]
 }
