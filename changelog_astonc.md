@@ -1,3 +1,6 @@
+#### 11-05-26
+- Sync with source
+
 #### 19-04-26
 - Voltage version upgrade to 5.8
 - Enable OTA updates.
